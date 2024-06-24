@@ -53,7 +53,7 @@ export default function Home() {
        */}
       <div
         onClick={() => setShowModal(true)}
-        className="absolute z-50 bottom-10 right-10 hover:cursor-pointer"
+        className="absolute bottom-10 right-10 hover:cursor-pointer"
       >
         <button className="px-5 py-3  hover:-translate-y-2 transition-transform duration-400 text-white font-medium rounded-md app-btn">
           Add Employee
